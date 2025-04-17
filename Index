@@ -1,0 +1,89 @@
+<!<!DOCTYPE HTML>
+
+<HTML lang=ar>
+    
+    <head>
+        <meta charset="UTF-8">
+        <link rel="mdry">
+        <title>DAROKTEST</title>
+        
+        
+        
+        <body style="background:#1a1a2e;" >
+
+            <div class ="mqe">
+                         <h1 id="mqqr">
+                                السلام عليكم
+                            
+                            </h1>
+                            
+                            <a herf =https://brr8.github.io/Iqd-ser/ target="_blank">
+                               <p id="qqq1">
+                                    وياكم المطور فهد
+                               وهذا اول مشروعي
+                               </p>
+                                 </a>
+                                 
+                
+                
+            </div>
+            
+                             
+        </body>
+            
+            
+            
+        
+        
+        <style>
+            
+            .mqe{
+                
+                
+                                width :250px;
+                                margin: 100 auto ;
+                                background :lightgray ;
+                                border-radius: 13%;
+                
+            }
+            
+            #mqqr{
+                
+                font-style: alshohadaa ;
+                text-align: center;
+                color :aqua;
+                
+                      
+    
+
+
+            }
+      
+            #qqq1{
+                text-align:center;
+
+                                                color: gray;
+                                                font-size: 20px;
+                                                margin: -25 auto;
+                
+                
+            }
+        </style>
+        
+        
+    </head>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+</HTML>
